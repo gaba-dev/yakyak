@@ -1,0 +1,14 @@
+{
+  "name": "yakyak",
+  "version": "1.0.0",
+  "description": "Game balance testing sandbox",
+  "author": "Gaba Dev",
+  "license": "CC0-1.0",
+  "scripts": {
+    "dev": "concurrently \"npm run client\" \"npm run server\"",
+    "client": "vite",
+    "server": "python backend/server.py",
+    "build": "vite build",
+    "test": "pytest backend/tests/ && npm run test:frontend"
+  }
+}
