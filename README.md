@@ -155,3 +155,157 @@ python backend/server.py
 [![Documentation](https://img.shields.io/badge/Documentation-3776AB?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.yakyak.dev)
 
 </div>
+
+<div align="center">
+   
+# ⚔️ Legends Hold
+### *Idle tower defense with famous heroes*
+
+[![Idle Strategy](https://img.shields.io/badge/Idle_Strategy-059669?style=for-the-badge&logo=target&logoColor=white)]() 
+[![Tower Defense](https://img.shields.io/badge/Tower_Defense-0EA5E9?style=for-the-badge&logo=shield&logoColor=white)]() 
+[![Historical Heroes](https://img.shields.io/badge/Historical_Heroes-6B46C1?style=for-the-badge&logo=crown&logoColor=white)]() 
+
+**🏰 Build** → **⚔️ Battle** → **📈 Upgrade** → **🌍 Expand**
+
+---
+
+## 🌍 Civilizations
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏺 **Egyptian Empire**
+[![Ancient Power](https://img.shields.io/badge/Ancient_Power-D97706?style=for-the-badge&logo=pyramid&logoColor=white)]()
+
+**Heroes:** Cleopatra • Imhotep • Ancient Pharaohs  
+**Style:** Sand-stone temples → Golden pyramid complexes  
+**Special:** Hieroglyphic magic & sphinx guardians
+
+</td>
+<td align="center" width="33%">
+
+### ⚔️ **Norse Kingdom**
+[![Viking Fury](https://img.shields.io/badge/Viking_Fury-DC2626?style=for-the-badge&logo=axe&logoColor=white)]()
+
+**Heroes:** Thor • Erik the Red • Viking Berserkers  
+**Style:** Wooden longhouses → Epic stone halls  
+**Special:** Runic powers & dragon-carved architecture
+
+</td>
+<td align="center" width="33%">
+
+### 🏯 **Feudal Japan**
+[![Samurai Honor](https://img.shields.io/badge/Samurai_Honor-059669?style=for-the-badge&logo=torii-gate&logoColor=white)]()
+
+**Heroes:** Miyamoto Musashi • Oda Nobunaga • Legendary Samurai  
+**Style:** Bamboo huts → Ornate pagoda castles  
+**Special:** Cherry blossom gardens & precision strikes
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏰 **Base Mode** *(Chill Building)*
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### **🏛️ Main Hall**
+*Unlock building evolution tiers*
+
+**10 Models:** Humble hut → Grand palace  
+**Function:** Gates progression system  
+**Visual:** Civilization-specific architecture
+
+</td>
+<td align="center" width="50%">
+
+### **🛡️ Barracks**
+*Spawn legendary heroes*
+
+**10 Models:** Basic training ground → Elite academy  
+**Function:** Hero recruitment center  
+**Visual:** Matches civilization aesthetic
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### **⚔️ Armory**
+*Civilization-specific gear*
+
+**10 Models:** Simple workshop → Master forge  
+**Function:** Equipment upgrades  
+**Visual:** Cultural weapon displays
+
+</td>
+<td align="center">
+
+### **💰 Treasury**
+*Idle gold generation*
+
+**10 Models:** Coin pouch → Treasure vault  
+**Function:** Passive income  
+**Visual:** Growing wealth displays
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### **🗿 Monuments**
+*Unique civilization bonuses*
+
+**Egyptian:** Sphinx guardians • **Norse:** Runic obelisks • **Japanese:** Sacred shrines  
+**Function:** Special passive abilities and combat bonuses
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚔️ **War Mode** *(Tower Defense)*
+
+```javascript
+const gameplay = {
+  deployment: ["Drag heroes to positions", "Strategic placement matters"],
+  combat: ["Heroes auto-fight enemies", "Tap portraits for special attacks"],
+  progression: ["Collect loot drops", "Defend your monuments"],
+  victory: ["Win resources", "Unlock new content"]
+};
+```
+
+### **🎯 Core Mechanics**
+- **Simple Controls:** Drag-and-drop hero deployment
+- **Active Abilities:** One-tap special moves per hero
+- **Resource Collection:** Automatic loot pickup
+- **Monument Defense:** Protect your civilization's wonders
+
+---
+
+## 🔄 **Core Loop**
+
+**🏗️ Base Building** generates resources → **⚔️ War Mode** earns upgrades → **📈 Stronger Base** unlocks new content → **🔁 Repeat**
+
+### **🎮 Target Audience**
+Players who want strategic gameplay without overwhelming complexity
+
+---
+
+## ✨ **Key Features**
+
+[![Visual Evolution](https://img.shields.io/badge/Visual_Evolution-4C1D95?style=for-the-badge&logo=trending-up&logoColor=white)]()
+[![Famous Heroes](https://img.shields.io/badge/Famous_Heroes-7C2D12?style=for-the-badge&logo=users&logoColor=white)]()
+[![Clean Design](https://img.shields.io/badge/Clean_Design-059669?style=for-the-badge&logo=palette&logoColor=white)]()
+
+**🏛️ Building Evolution:** Watch civilization transform through 10 architectural stages  
+**👥 Legendary Heroes:** Deploy famous historical figures with unique abilities  
+**🎨 Clean Presentation:** Smooth gameplay with polished visual design
+
+</div>
