@@ -159,11 +159,11 @@ python backend/server.py
 <div align="center">
    
 # ⚔️ Legends Hold
-### *Idle tower defense with famous heroes*
+### *Idle tower defense with mythological gods*
 
 [![Idle Strategy](https://img.shields.io/badge/Idle_Strategy-059669?style=for-the-badge&logo=target&logoColor=white)]() 
 [![Tower Defense](https://img.shields.io/badge/Tower_Defense-0EA5E9?style=for-the-badge&logo=shield&logoColor=white)]() 
-[![Historical Heroes](https://img.shields.io/badge/Historical_Heroes-6B46C1?style=for-the-badge&logo=crown&logoColor=white)]() 
+[![Divine Heroes](https://img.shields.io/badge/Divine_Heroes-6B46C1?style=for-the-badge&logo=sparkles&logoColor=white)]() 
 
 **🏰 Build** → **⚔️ Battle** → **📈 Upgrade** → **🌍 Expand**
 
@@ -178,9 +178,9 @@ python backend/server.py
 ### 🏺 **Egyptian Empire**
 [![Ancient Power](https://img.shields.io/badge/Ancient_Power-D97706?style=for-the-badge&logo=pyramid&logoColor=white)]()
 
-**Heroes:** Cleopatra • Imhotep • Ancient Pharaohs  
-**Style:** Sand-stone temples → Golden pyramid complexes  
-**Special:** Hieroglyphic magic & sphinx guardians
+**Gods:** Ra • Anubis • Isis  
+**Style:** Stone temples → Golden pyramids  
+**Special:** Solar magic & death curses
 
 </td>
 <td align="center" width="33%">
@@ -188,9 +188,9 @@ python backend/server.py
 ### ⚔️ **Norse Kingdom**
 [![Viking Fury](https://img.shields.io/badge/Viking_Fury-DC2626?style=for-the-badge&logo=axe&logoColor=white)]()
 
-**Heroes:** Thor • Erik the Red • Viking Berserkers  
-**Style:** Wooden longhouses → Epic stone halls  
-**Special:** Runic powers & dragon-carved architecture
+**Gods:** Thor • Odin • Freya  
+**Style:** Longhouses → Stone halls  
+**Special:** Thunder & battle fury
 
 </td>
 <td align="center" width="33%">
@@ -198,9 +198,9 @@ python backend/server.py
 ### 🏯 **Feudal Japan**
 [![Samurai Honor](https://img.shields.io/badge/Samurai_Honor-059669?style=for-the-badge&logo=torii-gate&logoColor=white)]()
 
-**Heroes:** Miyamoto Musashi • Oda Nobunaga • Legendary Samurai  
-**Style:** Bamboo huts → Ornate pagoda castles  
-**Special:** Cherry blossom gardens & precision strikes
+**Gods:** Amaterasu • Susanoo • Inari  
+**Style:** Bamboo huts → Pagoda castles  
+**Special:** Storm control & nature spirits
 
 </td>
 </tr>
@@ -210,82 +210,24 @@ python backend/server.py
 
 ## 🏰 **Base Mode** *(Chill Building)*
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+### **Building Evolution System**
+Each structure has **10 visual models** unlocked by Main Hall levels
 
-### **🏛️ Main Hall**
-*Unlock building evolution tiers*
-
-**10 Models:** Humble hut → Grand palace  
-**Function:** Gates progression system  
-**Visual:** Civilization-specific architecture
-
-</td>
-<td align="center" width="50%">
-
-### **🛡️ Barracks**
-*Spawn legendary heroes*
-
-**10 Models:** Basic training ground → Elite academy  
-**Function:** Hero recruitment center  
-**Visual:** Matches civilization aesthetic
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### **⚔️ Armory**
-*Civilization-specific gear*
-
-**10 Models:** Simple workshop → Master forge  
-**Function:** Equipment upgrades  
-**Visual:** Cultural weapon displays
-
-</td>
-<td align="center">
-
-### **💰 Treasury**
-*Idle gold generation*
-
-**10 Models:** Coin pouch → Treasure vault  
-**Function:** Passive income  
-**Visual:** Growing wealth displays
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### **🗿 Monuments**
-*Unique civilization bonuses*
-
-**Egyptian:** Sphinx guardians • **Norse:** Runic obelisks • **Japanese:** Sacred shrines  
-**Function:** Special passive abilities and combat bonuses
-
-</td>
-</tr>
-</table>
+**🏛️ Main Hall** - Unlock tiers  
+**🛡️ Barracks** - Spawn gods  
+**⚔️ Armory** - Divine weapons  
+**💰 Treasury** - Idle gold  
+**🗿 Monuments** - Civilization bonuses
 
 ---
 
 ## ⚔️ **War Mode** *(Tower Defense)*
 
-```javascript
-const gameplay = {
-  deployment: ["Drag heroes to positions", "Strategic placement matters"],
-  combat: ["Heroes auto-fight enemies", "Tap portraits for special attacks"],
-  progression: ["Collect loot drops", "Defend your monuments"],
-  victory: ["Win resources", "Unlock new content"]
-};
-```
-
-### **🎯 Core Mechanics**
-- **Simple Controls:** Drag-and-drop hero deployment
-- **Active Abilities:** One-tap special moves per hero
-- **Resource Collection:** Automatic loot pickup
-- **Monument Defense:** Protect your civilization's wonders
+**🎯 Simple Combat:**
+- Drag gods to positions
+- Tap for divine abilities  
+- Collect loot drops
+- Defend monuments
 
 ---
 
@@ -294,18 +236,14 @@ const gameplay = {
 **🏗️ Base Building** generates resources → **⚔️ War Mode** earns upgrades → **📈 Stronger Base** unlocks new content → **🔁 Repeat**
 
 ### **🎮 Target Audience**
-Players who want strategic gameplay without overwhelming complexity
+Players who want strategic gameplay with mythological gods
 
 ---
 
 ## ✨ **Key Features**
 
-[![Visual Evolution](https://img.shields.io/badge/Visual_Evolution-4C1D95?style=for-the-badge&logo=trending-up&logoColor=white)]()
-[![Famous Heroes](https://img.shields.io/badge/Famous_Heroes-7C2D12?style=for-the-badge&logo=users&logoColor=white)]()
-[![Clean Design](https://img.shields.io/badge/Clean_Design-059669?style=for-the-badge&logo=palette&logoColor=white)]()
-
-**🏛️ Building Evolution:** Watch civilization transform through 10 architectural stages  
-**👥 Legendary Heroes:** Deploy famous historical figures with unique abilities  
-**🎨 Clean Presentation:** Smooth gameplay with polished visual design
+**🏛️ Visual Evolution** - 10 building stages per structure  
+**⚡ Divine Powers** - Gods with unique mythological abilities  
+**🎨 Clean Design** - Smooth, polished gameplay
 
 </div>
